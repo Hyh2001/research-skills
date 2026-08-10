@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Review"
+  short_description: "Guided paper discovery, method mapping, and field synthesis."
+  default_prompt: "Use $literature-review to map an academic field from keywords through paper selection, method schools, and synthesis."
