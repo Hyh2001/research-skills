@@ -34,6 +34,7 @@ research-skills/
     intro-drafter/
     literature-review/
     paper-polish/
+    paper-reading/
     paper-writer/
     pre-submission-reviewer/
     tech-paper-template/
@@ -55,6 +56,7 @@ research-skills/
 | `intro-drafter` | Draft or outline a paper Introduction using a six-part logic chain. |
 | `paper-writer` | Draft paper prose from user-provided evidence and verified citations. |
 | `paper-polish` | Polish academic prose while preserving meaning and calibrating claims. |
+| `paper-reading` | Read one paper by a chosen depth level and generate a structured reading note. |
 | `pre-submission-reviewer` | Audit a draft before submission across logic, writing, grammar, LaTeX, and figures. |
 | `figure-designer` | Design technical paper figures and choose chart/layout strategies. |
 | `drawio-reconstruction` | Reconstruct reference diagrams into editable Draw.io files. |
