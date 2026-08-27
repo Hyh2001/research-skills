@@ -1,0 +1,4 @@
+interface:
+  display_name: "Material to Course"
+  short_description: "Turn source materials into a course"
+  default_prompt: "Use $material-to-course to turn my papers, slides, and notes into a source-grounded curriculum with lessons, supplemental learning resources, practice, and answer keys."
