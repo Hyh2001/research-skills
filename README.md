@@ -33,7 +33,7 @@ research-skills/
     idea-evaluator/
     intro-drafter/
     literature-review/
-    material-to-course/
+    reading-bridge/
     paper-polish/
     paper-reading/
     paper-writer/
@@ -52,7 +52,7 @@ research-skills/
 | `idea-evaluator` | Evaluate early research ideas for novelty, feasibility, capability fit, and fatal flaws. |
 | `literature-review` | Run a guided literature review workflow from search terms to a structured field map. |
 | `deep-research` | Conduct survey-grade literature investigation with citation verification and synthesis. |
-| `material-to-course` | Turn papers, slides, and notes into a source-grounded curriculum with lessons, practice, and supplemental learning resources. |
+| `reading-bridge` | Make difficult papers, textbook chapters, and technical notes progressively readable by identifying prerequisite gaps, finding minimal high-quality bridge resources, and repeatedly returning the reader to the target material. |
 | `tech-paper-template` | Build the logical skeleton of a technical paper. |
 | `benchmark-paper-template` | Structure benchmark and evaluation papers. |
 | `intro-drafter` | Draft or outline a paper Introduction using a six-part logic chain. |
